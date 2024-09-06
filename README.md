@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microsoft SQL Logs forwarding to IBM Qradar](https://github.com/lorenztechspace/MsSqlLogsToQradar)
 
 <h2>📄 Certification</h2>
 
