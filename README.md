@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Lorenz! <br/>IT Security Professional</a></h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📄 Certification</h2>
+
+- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Lorenz Sanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/lorenz-jeremiah-sanchez
 
 <!--
 **lorenztechspace/lorenztechspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
