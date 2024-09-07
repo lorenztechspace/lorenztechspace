@@ -8,6 +8,7 @@
 
 - [CompTIA Security+](https://i.imgur.com/JM0c6C9.png)
 - [INE Security eJPT](https://i.imgur.com/WmdynyV.png)
+- [CCNA](https://i.imgur.com/EvEFyMg.png)
 
 <h2> 🤳 Connect with me:</h2>
 
