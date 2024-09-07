@@ -6,9 +6,9 @@
 
 <h2>📄 Certifications:</h2>
 
-- [CompTIA Security+](https://i.imgur.com/JM0c6C9.png)
-- [INE Security eJPT](https://i.imgur.com/WmdynyV.png)
-- [CCNA](https://i.imgur.com/EvEFyMg.png)
+- CompTIA Security+
+- INE Security eJPT
+- CCNA  
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,6 +17,10 @@
 [linkedin]: https://www.linkedin.com/in/lorenz-jeremiah-sanchez
 
 <!--
+(https://i.imgur.com/JM0c6C9.png)
+##(https://i.imgur.com/WmdynyV.png)
+##(https://i.imgur.com/EvEFyMg.png)
+
 **lorenztechspace/lorenztechspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
