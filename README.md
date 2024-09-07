@@ -4,7 +4,7 @@
 
   - [Microsoft SQL Logs forwarding to IBM Qradar](https://github.com/lorenztechspace/MsSqlLogsToQradar)
 
-<h2>📄 Certification</h2>
+<h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://i.imgur.com/JM0c6C9.png)
 - [INE Security eJPT](https://i.imgur.com/WmdynyV.png)
