@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Microsoft SQL Logs forwarding to IBM Qradar](https://github.com/lorenztechspace/MsSqlLogsToQradar)
+  - [Basic Linux Navigation](https://github.com/lorenztechspace/BasicLinuxNavigation)
 
 <h2>📄 Certifications:</h2>
 
