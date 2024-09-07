@@ -6,7 +6,8 @@
 
 <h2>📄 Certification</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://i.imgur.com/JM0c6C9.png)
+- [INE Security eJPT](https://i.imgur.com/WmdynyV.png)
 
 <h2> 🤳 Connect with me:</h2>
 
