@@ -4,6 +4,7 @@
 
   - [Microsoft SQL Logs forwarding to IBM Qradar](https://github.com/lorenztechspace/MsSqlLogsToQradar)
   - [Basic Linux Navigation](https://github.com/lorenztechspace/BasicLinuxNavigation)
+  - [Exploiting Kioptrix](https://github.com/lorenztechspace/KioptrixWalkthrough)
 
 <h2>📄 Certifications:</h2>
 
