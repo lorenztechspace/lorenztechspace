@@ -21,9 +21,7 @@ Driven by my passion for cybersecurity and professional growth, I aim to contrib
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Lorenz Sanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/lorenz-jeremiah-sanchez
+<a href="https://www.linkedin.com/in/lorenz-jeremiah-sanchez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/>
 
