@@ -1,5 +1,12 @@
 <h1>Hi, I'm Lorenz! <br/>IT Security Professional</a></h1>
 
+## Professional Summary
+As an experienced Security Analyst and Network Security Engineer, I bring over five years of hands-on expertise in cybersecurity, specializing in threat detection, incident response, and network defense. I have a proven track record of mitigating and responding to a wide range of cyber threats using advanced tools like SIEM, EDR, and firewalls.
+
+I hold a Bachelor of Science in Information Technology from Centro Escolar University and continuously advance my knowledge through certifications and professional development. I've earned certifications including CompTIA Security+, CCNA, Fortinet NSE, and eJPT, to name a few. I am committed to staying ahead in the cybersecurity field through platforms like LetsDefend and TryHackMe, with a focus on the blue team.
+
+Driven by my passion for cybersecurity and professional growth, I aim to contribute to the security posture of organizations by using my technical skills, industry certifications, and a strong foundation in network security. I look forward to connecting with fellow professionals and sharing insights to help strengthen our collective defenses.
+
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Microsoft SQL Logs forwarding to IBM Qradar](https://github.com/lorenztechspace/MsSqlLogsToQradar)
@@ -17,6 +24,14 @@
 [<img align="left" alt="Lorenz Sanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/lorenz-jeremiah-sanchez
+
+<br/>
+
+## Subscriptions
+- Udemy
+- TryHackMe
+- LetsDefend
+- TCM Academy
 
 <!--
 (https://i.imgur.com/JM0c6C9.png)
